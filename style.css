@@ -7,8 +7,7 @@
 body {
   height: 100vh;
   overflow: hidden;
-  background: linear-gradient(-225deg, #a445b2 0%, #d41872 52%, #ff0066 100%)
-    no-repeat;
+  background: whitesmoke;
 }
 
 .container {
